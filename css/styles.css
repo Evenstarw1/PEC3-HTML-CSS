@@ -313,7 +313,7 @@ div.blockquote-box{
     margin-bottom: 30px;
 }
 
-.article p, .article blockquote {
+.article .main p, .article blockquote {
     padding-bottom: 15px;
 }
 
